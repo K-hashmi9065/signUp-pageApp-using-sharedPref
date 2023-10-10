@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979793251511",
+    "project_id": "signuppage-e00cb",
+    "storage_bucket": "signuppage-e00cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979793251511:android:0ec7b4b6d217929c5f9132",
+        "android_client_info": {
+          "package_name": "com.example.sign_up_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979793251511-vdoo61cbeq9900vijevuosnlf4gfd14p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrz4PctnbbXoKi5PmPoVoGBaGzeAhpL1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979793251511-vdoo61cbeq9900vijevuosnlf4gfd14p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
